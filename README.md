@@ -1,1 +1,1 @@
-# NOIP-
+# NOIP
